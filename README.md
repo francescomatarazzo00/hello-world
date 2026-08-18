@@ -5,3 +5,4 @@ Proviamo a fare un pò di calcio con questo breve esercizio
 CAPIAMO COME VEDERE LA CRONOLOGIA DI GITHUB
 
 E facciamo possesso sesso sesso 
+Modifico il file readme da locale e vedo come caricarlo su remoto (github)
